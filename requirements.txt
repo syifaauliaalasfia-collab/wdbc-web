@@ -1,0 +1,10 @@
+streamlit>=1.40
+pandas
+numpy
+scipy
+scikit-learn
+plotly
+altair
+pillow
+statsmodels
+matplotlib
